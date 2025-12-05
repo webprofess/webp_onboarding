@@ -210,7 +210,7 @@ require_once '../../../app/config/database.php';
                                             </div>
                                         </div>
 
-                                        <button type="submit" class="btn btn-green"><i class="fa-solid fa-plus"></i> Complete Onboarding</button>
+                                        <button type="submit" class="btn btn-green"><i class="fa-solid fa-plus"></i> Complete Onboarding Process</button>
                                     </form>
                                 </div>
                             </div>
